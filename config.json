@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydpdate",
+        "uuid": 25202664,
+        "checksum": "49xjp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
